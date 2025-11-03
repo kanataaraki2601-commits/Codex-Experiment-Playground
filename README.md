@@ -2,6 +2,7 @@
 
 This repository is a sandbox for exploring and experimenting with OpenAI Codex and related tooling.
 
+          
 ## Goals
 - Prototype small scripts and applications that demonstrate Codex's capabilities.
 - Integrate and extend the **Codex Connector** from our recent work, using it as both motivation and starting point for new experiments.
